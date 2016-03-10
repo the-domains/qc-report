@@ -1,0 +1,28 @@
+name: QC Report
+favicon: null
+layout_spectrum: 0.9716908729169518
+typography_spectrum: 0.5750435239169747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2876583293545991
+  lightness: 0.36930619296617806
+  saturation: 0.43577091582119465
+  rhythmicContrast: 0.863382987678051
+purpose: []
